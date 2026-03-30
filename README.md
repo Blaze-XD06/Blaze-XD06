@@ -1,24 +1,22 @@
-# Hi, I'm Blaze 👋
+Hi, I'm Blaze
 
-💻 Aspiring developer currently improving my programming skills and building projects.
+Self-taught developer learning by building projects and improving every day.
 
-## 🚧 Current Focus
-- Practicing HTML and CSS
-- Learning JavaScript
-- Building my personal website
+Current focus
+Practicing HTML and CSS
+Learning JavaScript
+Building my personal website
 
-## 🧠 Languages & Tools
-- Python (learning/revising)
-- HTML
-- CSS
-- JavaScript (beginner)
+Languages & tools
+Python (learning/revising)
+HTML
+CSS
+JavaScript (beginner)
 
-## 📚 Next on My Learning Path
-- SQL
-- Flask
+Next on my learning path
+SQL
+Flask
 
-## 🎮 Future Projects
-- Mini browser games
-- Small coding experiments
-
-😄 Pronouns: he/him
+Future projects
+Mini browser games
+Small coding experiments
