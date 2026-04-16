@@ -16,6 +16,7 @@ Self-taught developer learning by building projects and improving every day.
 ## Next on my learning path
 - SQL
 - Flask
+- Git
 
 ## Future projects
 - Mini browser games
