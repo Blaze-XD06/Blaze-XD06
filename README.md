@@ -11,12 +11,12 @@ Self-taught developer learning by building projects and improving every day.
 - Python (learning/revising)
 - HTML
 - CSS
-- JavaScript (beginner)
+- JavaScript (Currantly Learning)
+- Git
 
 ## Next on my learning path
 - SQL
 - Flask
-- Git
 
 ## Future projects
 - Mini browser games
