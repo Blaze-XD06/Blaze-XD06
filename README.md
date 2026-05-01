@@ -8,7 +8,7 @@ Self-taught developer learning by building projects and improving every day.
 - Building my personal website
 
 ## Languages & tools
-- Python (learning/revising)
+- Python (revising)
 - HTML
 - CSS
 - JavaScript (Currantly Learning)
