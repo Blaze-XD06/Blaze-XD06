@@ -1,23 +1,27 @@
-# Hi, I'm Blaze
+# Hi, I'm Blaze 👋
 
-Self-taught developer learning by building projects and improving every day.
+Self-taught developer focused on learning by building projects and improving consistently every day.
 
-## Current focus
-- Practicing HTML and CSS
+## Current Focus
+- Practicing HTML & CSS
 - Learning JavaScript
-- Building my personal website
+- Building and improving my personal website
 
-## Languages & tools
-- Python (revising)
+## Languages & Tools
+- Python
 - HTML
 - CSS
-- JavaScript (Currantly Learning)
-- Git
+- JavaScript (currently learning)
+- Git & GitHub
+- Linux (Zorin OS)
 
-## Next on my learning path
+## Next on My Learning Path
 - SQL
 - Flask
+- React
 
-## Future projects
+## Future Projects
 - Mini browser games
+- Full-stack web applications
 - Small coding experiments
+- Interactive portfolio projects
