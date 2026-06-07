@@ -4,21 +4,18 @@ Self-taught developer focused on learning by building projects and improving con
 
 ## Current Focus
 - Practicing HTML & CSS
-- Learning JavaScript
+- Learning JavaScript ,SQL and Linux 
 - Building and improving my personal website
 
 ## Languages & Tools
 - Python
-- HTML
-- CSS
-- JavaScript (currently learning)
-- Git & GitHub
-- Linux (Zorin OS)
+- HTML & CSS
+- JavaScript & SQL (currently learning)
+- Linux
 
 ## Next on My Learning Path
-- SQL
 - Flask
-- React
+- Proper Git
 
 ## Future Projects
 - Mini browser games
