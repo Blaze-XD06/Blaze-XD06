@@ -12,6 +12,7 @@ Self-taught developer focused on learning by building projects and improving con
 - HTML & CSS
 - JavaScript & SQL (currently learning)
 - Linux
+- Git
 
 ## Next on My Learning Path
 - Flask
